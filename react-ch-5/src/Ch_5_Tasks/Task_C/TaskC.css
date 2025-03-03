@@ -1,0 +1,36 @@
+.nested-routing-nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.nested-routing-nav a{
+color: white;
+display: flex;
+border: 1px solid white;
+width: 100px;
+}
+.user-container{
+    background-color: antiquewhite;
+    color: black;
+
+}
+.profile-navbar{
+    background-color: brown;
+
+}
+.profile-navbar ul{
+    display: flex;
+    padding: 10px;
+}
+
+.profile-navbar ul li{
+    list-style: none;
+    padding: 10px;
+    border: 1px solid black;
+}
+.profile-navbar ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
