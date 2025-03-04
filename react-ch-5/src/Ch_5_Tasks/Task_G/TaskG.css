@@ -1,0 +1,34 @@
+.routing-container{
+    background-color: black;
+}
+.routing-container ul{
+display: flex;
+
+}
+.routing-container ul li{
+    list-style-type: none;
+    padding: 20px;
+}
+.routing-container ul li a{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 19px;
+}
+.home-container{
+    background-color: antiquewhite;
+    color: black;
+    padding: 50px;
+    /* margin: 20px; */
+    height: 100vh;
+}
+.contact-container{
+    background-color: antiquewhite;
+    color: black;
+    padding: 50px;
+}
+.about-container{
+    background-color: antiquewhite;
+    color: black;
+    padding: 50px;
+}
