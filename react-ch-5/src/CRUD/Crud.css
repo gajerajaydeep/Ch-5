@@ -1,0 +1,12 @@
+.create-post-form {
+    width: 300px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    padding: 30px;
+    border: 1px solid black;
+}
+.post-details{
+    
+}
